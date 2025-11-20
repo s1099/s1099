@@ -5,3 +5,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 check out my [list of react component libs](https://svsv.notion.site/react-components)
+
+<img src=https://github.com/user-attachments/assets/b07975fc-1c49-4dbb-bf61-a9eedd8b0492 height=240 alt=Tetoris />
